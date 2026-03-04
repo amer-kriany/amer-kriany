@@ -22,7 +22,7 @@ I am a passionate **Mobile Application Developer** specializing in creating beau
 
 ### 📈 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=amer-kriany&show_icons=true&theme=tokyonight" alt="My Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=amer-kriany&show_icons=true" alt="My Stats" />
 </p>
 
 ---
