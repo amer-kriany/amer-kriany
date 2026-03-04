@@ -16,8 +16,7 @@ I am a passionate **Mobile Application Developer** specializing in creating beau
 ### 📂 Featured Projects
 | ☕ Coffee Hub | 📚 Booky Store | 🐝 Gispy Bee |
 |---|---|---|
-| [View Project](https://github.com/amer-kriany/flutter-coffee-shop-ui) | [View Project](https://github.com/amer-kriany/flutter-book-store-ui) 
-| [View Project](https://github.com/amer-kriany/flutter-ecommerce-ui) |
+| [View Project](https://github.com/amer-kriany/flutter-coffee-shop-ui) | [View Project](https://github.com/amer-kriany/flutter-book-store-ui) | [View Project](https://github.com/amer-kriany/flutter-ecommerce-ui) |
 
 ---
 
