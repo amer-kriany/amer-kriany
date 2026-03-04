@@ -20,12 +20,8 @@ I am a passionate **Mobile Application Developer** specializing in creating beau
 
 ---
 
-### 📈 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=amer-kriany&show_icons=true" alt="My Stats" />
-</p>
 
----
+![Amer's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=amer-kriany&show_icons=true&theme=tokyonight)
 
 ### 📫 How to reach me:
 - **Email:** amer.kriany0@gmail.com
