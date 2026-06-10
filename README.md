@@ -33,7 +33,7 @@
 | 🍕 Yummy | 🏭 Factory Core |
 |---|---|
 | Team food app — Flutter | College project — Java |
-| `Contributor` | `Contributor` |
+| [View Project](https://github.com/bilalshayah/yammyApp) | [View Project](https://github.com/FactoryCore/FactoryCore) |
 
 ### 🚧 Coming Soon
 
