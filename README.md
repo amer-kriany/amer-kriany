@@ -5,10 +5,6 @@
   I am a passionate <strong>Mobile Application Developer</strong> specializing in creating beautiful, responsive, and high-performance mobile apps using <strong>Flutter & Dart</strong>.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amer-kriany&color=blue&style=flat-square" alt="Profile views" />
-</p>
-
 ---
 
 ### 🛠️ Tech Stack & Tools
@@ -31,6 +27,13 @@
 | ☕ Coffee Hub | 📚 Booky Store | 🐝 Gispy Bee | 🍺 Brew Crew |
 |---|---|---|---|
 | [View Project](https://github.com/amer-kriany/flutter-coffee-shop-ui) | [View Project](https://github.com/amer-kriany/flutter-book-store-ui) | [View Project](https://github.com/amer-kriany/flutter-ecommerce-ui) | [View Project](https://github.com/amer-kriany/BrewCrew) |
+
+### 🤝 Contributions
+
+| 🍕 Yummy | 🏭 Factory Core |
+|---|---|
+| Team food app — Flutter | College project — Java |
+| `Contributor` | `Contributor` |
 
 ### 🚧 Coming Soon
 
