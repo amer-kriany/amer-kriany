@@ -32,6 +32,13 @@
 |---|---|---|---|
 | [View Project](https://github.com/amer-kriany/flutter-coffee-shop-ui) | [View Project](https://github.com/amer-kriany/flutter-book-store-ui) | [View Project](https://github.com/amer-kriany/flutter-ecommerce-ui) | [View Project](https://github.com/amer-kriany/BrewCrew) |
 
+### 🚧 Coming Soon
+
+| ⬆️ Level Up | 🍽️ Aklatna |
+|---|---|
+| Gamified self-improvement app | Food ordering platform |
+| `In Development` | `In Development` |
+
 ---
 
 ### 📊 GitHub Stats
